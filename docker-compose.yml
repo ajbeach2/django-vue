@@ -1,0 +1,46 @@
+version: '3'
+services:
+  postgres:
+    image: postgres
+    volumes:
+      - "dbdata:/var/lib/postgresql/data"
+    ports:
+      - "5431:5432"
+  client:
+    env_file: ./env/.client.env
+    build:
+      context: ./client
+    volumes:
+      - ./client/:/app
+      - node_modules:/app/node_modules
+    ports:
+      - "8080:8080"
+    depends_on:
+      - api
+  api:
+    tty: true
+    stdin_open: true
+    build:
+      context: ./backend
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8000:80"
+    env_file: ./env/.api.env
+    environment:
+      - LOG_LEVEL=DEBUG
+      - DJANGO_LOG_LEVEL=INFO
+    depends_on:
+      - postgres
+  web:
+    image: nginx
+    volumes:
+      - ./nginx/:/etc/nginx/conf.d/
+    ports:
+      - "3031:80"
+    depends_on:
+      - api
+      - client
+volumes:
+  node_modules:
+  dbdata:
