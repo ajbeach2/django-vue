@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'drf_yasg',
     'corsheaders',
     'django_nose',
     'backend.api'
@@ -92,6 +93,9 @@ DATABASES = {
         'PORT': 5432,
     }
 }
+
+LOGOUT_URL = "/admin/logout"
+LOGIN_URL = "/admin/login"
 
 
 # Password validation
