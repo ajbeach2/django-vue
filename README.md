@@ -4,3 +4,6 @@ Django Vue scaffold. Runs with docker-compose. Requires nginx so that the vue.js
 
 ## Running
 ```docker-compose up```
+
+## Tests
+```make test```
