@@ -22,8 +22,11 @@ from drf_yasg import openapi
 from rest_framework import permissions
 from rest_framework.routers import DefaultRouter
 
+from backend.api.views import UserViewSet
+
 
 router = DefaultRouter()
+router.register(r'users', UserViewSet, base_name='user')
 
 schema_view = get_schema_view(
    openapi.Info(

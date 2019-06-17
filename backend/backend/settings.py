@@ -98,6 +98,8 @@ LOGOUT_URL = "/admin/logout"
 LOGIN_URL = "/admin/login"
 
 
+USE_X_FORWARDED_HOST = True
+
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
 
