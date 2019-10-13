@@ -1,26 +1,7 @@
+from django.contrib.auth import password_validation
 from django.contrib.auth.models import User
-
 from rest_framework import serializers
 from rest_framework.validators import UniqueValidator
-
-
-from django.contrib.auth import (
-    authenticate, get_user_model, password_validation,
-)
-
-from django.core.exceptions import (
-    FieldDoesNotExist, ImproperlyConfigured, ValidationError,
-)
-
-from backend.api.models import Profile
-
-
-# class ProfileSerializer(serializers.ModelSerializer):
-#     email_confirmed = serializers.BooleanField()
-
-#     class Meta:
-#         model = Profile
-#         fields = '__all__'
 
 
 class UserSerializer(serializers.ModelSerializer):

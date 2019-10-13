@@ -23,7 +23,7 @@ class IsOwnerOrReadOnly(permissions.BasePermission):
 # class IsUnAuthenticated(permissions.BasePermission):
 #     """
 #     Permissions if user is not authenticated. Some things
-#     j(ie, registration) should only be valid for 
+#     j(ie, registration) should only be valid for
 #     """
 
 #     def has_object_permission(self, request, view, obj):
