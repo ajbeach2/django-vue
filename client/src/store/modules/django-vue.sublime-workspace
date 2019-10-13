@@ -1,0 +1,2126 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"All",
+				"ALLOWED_HOSTS"
+			],
+			[
+				"get",
+				"getenv\tfunction"
+			],
+			[
+				"uid",
+				"uidb64"
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"pass",
+				"passwordConfirm"
+			],
+			[
+				"U",
+				"AUTH_USER_MODEL"
+			],
+			[
+				"val",
+				"validated_data\tparam"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"valid",
+				"validate_password"
+			],
+			[
+				"Seriz",
+				"serializers"
+			],
+			[
+				"att",
+				"attrValue"
+			],
+			[
+				"queu",
+				"queueOut"
+			],
+			[
+				"qu",
+				"queueUrl"
+			],
+			[
+				"AWS",
+				"AWS_FILE_ORIGIN\tstatement"
+			],
+			[
+				"EN",
+				"APP_ENV"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"H",
+				"HOST_NAME"
+			],
+			[
+				"HOST",
+				"HOST_NAME\tstatement"
+			],
+			[
+				"a",
+				"archive"
+			],
+			[
+				"bucket",
+				"bucket_name"
+			],
+			[
+				"queue",
+				"queue_name"
+			],
+			[
+				"ori",
+				"origin_bucket"
+			],
+			[
+				"buc",
+				"bucket_name"
+			],
+			[
+				"tas",
+				"task_name"
+			],
+			[
+				"form",
+				"form_action"
+			],
+			[
+				"stat",
+				"status_code\tstatement"
+			],
+			[
+				"http",
+				"http_response\tstatement"
+			],
+			[
+				"for",
+				"form_action"
+			],
+			[
+				"set",
+				"set_trace\tfunction"
+			],
+			[
+				"A",
+				"APP_ENV\tstatement"
+			],
+			[
+				"res",
+				"rest_framework\tmodule"
+			],
+			[
+				"log",
+				"logging\tmodule"
+			],
+			[
+				"APP_",
+				"APP_NAME\tstatement"
+			],
+			[
+				"APP",
+				"APP_NAME\tstatement"
+			],
+			[
+				"up",
+				"upload_serializer\tmodule"
+			],
+			[
+				"test",
+				"tests"
+			],
+			[
+				"UP",
+				"UploadRequestSerializer"
+			],
+			[
+				"Us",
+				"UserSerializer\tclass"
+			],
+			[
+				"P",
+				"ProfileSerializer\tclass"
+			],
+			[
+				"goo",
+				"google_auth"
+			],
+			[
+				"gen",
+				"getenv\tfunction"
+			],
+			[
+				"index",
+				"index_search\tfunction"
+			],
+			[
+				"eun",
+				"enqueue\tmodule"
+			],
+			[
+				"q",
+				"queue_name\tstatement"
+			],
+			[
+				"get_",
+				"get_app_sqs_queue\tfunction"
+			],
+			[
+				"Queu",
+				"QueueArn"
+			],
+			[
+				"ma",
+				"max_receive_count\tparam"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"curr",
+				"currentSong"
+			],
+			[
+				"Put",
+				"PutAlbum"
+			],
+			[
+				"Tra",
+				"Tracks"
+			],
+			[
+				"Wa",
+				"WaveformFile"
+			],
+			[
+				"s3",
+				"s3key"
+			],
+			[
+				"file",
+				"fileutils"
+			],
+			[
+				"float",
+				"float64"
+			],
+			[
+				"name",
+				"Namespace"
+			],
+			[
+				"Export",
+				"ExportConfig"
+			],
+			[
+				"see",
+				"Segments"
+			],
+			[
+				"Tr",
+				"TranscodeTrack"
+			],
+			[
+				"con",
+				"contentType"
+			],
+			[
+				"uplo",
+				"uploadToS3"
+			],
+			[
+				"art",
+				"artist"
+			],
+			[
+				"conten",
+				"content_type\tstatement"
+			],
+			[
+				"cont",
+				"content_type"
+			],
+			[
+				"me",
+				"meta_data"
+			],
+			[
+				"upload",
+				"upload_id\tparam"
+			],
+			[
+				"creat",
+				"create_response\tstatement"
+			],
+			[
+				"in",
+				"info\tfunction"
+			],
+			[
+				"Ou",
+				"OutMessage"
+			],
+			[
+				"even",
+				"eventType"
+			],
+			[
+				"ind",
+				"index_search\tfunction"
+			],
+			[
+				"as",
+				"assertTrue\tfunction"
+			],
+			[
+				"mo",
+				"model_label\tparam"
+			],
+			[
+				"Al",
+				"Album\tclass"
+			],
+			[
+				"kw",
+				"kwargs"
+			],
+			[
+				"b",
+				"bulk_index_queryset\tfunction"
+			],
+			[
+				"p",
+				"property\tNew Property"
+			],
+			[
+				"au",
+				"audio_file\tstatement"
+			],
+			[
+				"wav",
+				"waveform_file\tstatement"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"kwar",
+				"kwargs"
+			],
+			[
+				"dla",
+				"delay\tparam"
+			],
+			[
+				"Do",
+				"AlbumDocument\tclass"
+			],
+			[
+				"Albu",
+				"AlbumDocument\tclass"
+			],
+			[
+				"Album",
+				"AlbumSerializer\tclass"
+			],
+			[
+				"int",
+				"IntegerField"
+			],
+			[
+				"u",
+				"user_pk"
+			],
+			[
+				"vali",
+				"valid_songs\tstatement"
+			],
+			[
+				"ava",
+				"avatar_upload"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"av",
+				"avatar_upload"
+			],
+			[
+				"head",
+				"header_upload"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"song",
+				"song_data\tstatement"
+			],
+			[
+				"safe",
+				"safe_file_name\tstatement"
+			],
+			[
+				"dump",
+				"dumps\tfunction"
+			],
+			[
+				"rec",
+				"receipt_handle"
+			],
+			[
+				"S3",
+				"S3Event"
+			],
+			[
+				"map",
+				"mapGetters"
+			],
+			[
+				"ne",
+				"newIndex"
+			],
+			[
+				"audio",
+				"audio_upload"
+			],
+			[
+				"met",
+				"metaData"
+			],
+			[
+				"create",
+				"createAlbum"
+			],
+			[
+				"cre",
+				"createPromises"
+			],
+			[
+				"alb",
+				"album_artwork\tstatement"
+			],
+			[
+				"s",
+				"s3_upload_data"
+			],
+			[
+				"In",
+				"IntegerField"
+			],
+			[
+				"va",
+				"validated_data\tparam"
+			],
+			[
+				"result",
+				"Result"
+			],
+			[
+				"consu",
+				"consumerResult"
+			],
+			[
+				"Tim",
+				"Timeout"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"Remo",
+				"RemoveAll"
+			],
+			[
+				"r",
+				"record"
+			],
+			[
+				"go",
+				"googleUser"
+			],
+			[
+				"sing",
+				"signOut"
+			],
+			[
+				"si",
+				"signOut"
+			],
+			[
+				"id",
+				"idinfo\tstatement"
+			],
+			[
+				"word",
+				"word_count\tstatement"
+			],
+			[
+				"wor",
+				"word_count\tstatement"
+			],
+			[
+				"roo",
+				"rootB"
+			],
+			[
+				"mer",
+				"mergeSort"
+			],
+			[
+				"merge",
+				"MergeSort"
+			],
+			[
+				"cs",
+				"csv_formats\tstatement"
+			],
+			[
+				"par",
+				"parsePhoneNumber\tmodule"
+			],
+			[
+				"ph",
+				"phonenumber\tstatement"
+			],
+			[
+				"to",
+				"to_return\tstatement"
+			],
+			[
+				"las",
+				"lastname"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/potpan/Workspace/django-vue/client/src/components/Header/index.vue",
+			"settings":
+			{
+				"buffer_size": 1785,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "auth.js",
+			"settings":
+			{
+				"buffer_size": 3370,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "Find Results ",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "Searching 20 files for \"debugger\" (case sensitive)\n\n/home/potpan/Workspace/django-vue/client/src/store/modules/auth.js:\n   65    me: ({ dispatch, commit }) => {\n   66      return api.getMe().then((response) => {\n   67:       debugger\n   68        commit(SUCCESS_LOGIN, response.data)\n   69        return response.data\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/home/potpan/Workspace/django-vue/backend/backend/urls.py",
+			"settings":
+			{
+				"buffer_size": 2204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/potpan/Workspace/django-vue/client/src/api/index.js",
+			"settings":
+			{
+				"buffer_size": 1006,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/potpan/Workspace/django-vue/client/src/router.js",
+			"settings":
+			{
+				"buffer_size": 1764,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/potpan/Workspace/django-vue/client/src/views/Register.vue",
+			"settings":
+			{
+				"buffer_size": 3240,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/potpan/Workspace/django-vue/client/src/views/Login.vue",
+			"settings":
+			{
+				"buffer_size": 2187,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/potpan/Workspace/django-vue/backend/backend/settings.py",
+			"settings":
+			{
+				"buffer_size": 4087,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/potpan/Workspace/django-vue/.gitignore",
+			"settings":
+			{
+				"buffer_size": 263,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/potpan/Workspace/django-vue/docker-compose.yml",
+			"settings":
+			{
+				"buffer_size": 668,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/potpan/Workspace/django-vue/Makefile",
+			"settings":
+			{
+				"buffer_size": 118,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/potpan/Workspace/django-vue/README.md",
+			"settings":
+			{
+				"buffer_size": 213,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 128.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"j",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"installl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/potpan/Workspace/django-vue/django-vue.sublime-project",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/serializers.py",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/auth/views.py",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/templates/auth/email_verification_subject.txt",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/templates/auth/email_verification.html",
+		"/home/potpan/Workspace/django-vue/backend/backend/urls.py",
+		"/home/potpan/Workspace/django-vue/client/src/views/Register.vue",
+		"/home/potpan/Workspace/django-vue/client/src/api/index.js",
+		"/home/potpan/Workspace/django-vue/backend/.tox/flake8/bin/activate",
+		"/home/potpan/Workspace/django-vue/client/src/store/modules/auth.js",
+		"/home/potpan/Workspace/django-vue/client/Dockerfile",
+		"/home/potpan/Workspace/django-vue/client/package.json",
+		"/home/potpan/Workspace/django-vue/docker-compose.yml",
+		"/home/potpan/Workspace/django-vue/backend/backend/settings.py",
+		"/home/potpan/Workspace/django-vue/backend/.tox/py37/lib/python3.7/site-packages/docutils/transforms/components.py",
+		"/home/potpan/Workspace/django-vue/client/src/appconf.js",
+		"/home/potpan/Workspace/django-vue/client/src/store/types.js",
+		"/home/potpan/Workspace/django-vue/client/src/components/Alert/index.vue",
+		"/home/potpan/Workspace/django-vue/client/src/components/Auth/Login.vue",
+		"/home/potpan/Workspace/django-vue/client/src/router.js",
+		"/home/potpan/Workspace/django-vue/client/src/App.vue",
+		"/home/potpan/Workspace/django-vue/client/src/store/modules/alert.js",
+		"/home/potpan/Workspace/django-vue/client/src/store/index.js",
+		"/home/potpan/Workspace/django-vue/client/src/components/Header/index.vue",
+		"/home/potpan/Workspace/django-vue/client/src/views/Login.vue",
+		"/home/potpan/Workspace/django-vue/client/public/index.html",
+		"/home/potpan/Workspace/django-vue/client/config.js",
+		"/home/potpan/Workspace/django-vue/client/src/store/modules/error.js",
+		"/home/potpan/Workspace/django-vue/backend/setup.cfg",
+		"/home/potpan/Workspace/django-vue/backend/requirements.txt",
+		"/home/potpan/Workspace/django-vue/client/src/components/Auth/Register.vue",
+		"/home/potpan/Workspace/django-vue/backend/requirements.in",
+		"/home/potpan/Workspace/django-vue/backend/tox.ini",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/utils.py",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/views.py",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/templates/auth/password_reset_subject.txt",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/auth/tokens.py",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/permissions.py",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/templates/auth/password_reset_email.txt",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/models.py",
+		"/home/potpan/Workspace/django-vue/.python-version",
+		"/home/potpan/Workspace/django-vue/backend/.python-version",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/auth/__init__.py",
+		"/home/potpan/Workspace/django-vue/client/src/store.js",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/views/auth.py",
+		"/home/potpan/Workspace/django-vue/backend/backend/api/views/__init__.py",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/httpsource.go",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/s3event_test.go",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/event_test.go",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/event.go",
+		"/home/potpan/go/src/github.com/ajbeach2/mage/cmd/mage/main.go",
+		"/home/potpan/go/src/github.com/ajbeach2/mage/go.mod",
+		"/home/potpan/go/src/github.com/ajbeach2/transcoder/go.mod",
+		"/home/potpan/go/src/github.com/ajbeach2/transcoder/cmd/transcoder/main.go",
+		"/home/potpan/go/src/github.com/ajbeach2/mage/mage.go",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/input.go",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/input_manager.go",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/s3input.go",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/s3utils.go",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/input_test.go",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/s3input_test.go",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/s3utils_test.go",
+		"/home/potpan/go/src/github.com/ajbeach2/fileutils/inputmanager_test.go",
+		"/home/potpan/go/src/github.com/ajbeach2/transcoder/transcoder.go",
+		"/home/potpan/Workspace/kanto-compose/transcoder/cmd/transcoder/main.go",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/buildspec.yml",
+		"/home/potpan/Workspace/kanto-compose/.gitignore",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/.gitignore",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/tests/test_views/test_albums.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto-io-api.sublime-project",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/tests/test_views/test_uploads.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/tests/test_models/test_s3file.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/tests/factories.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/tests/test_views/test_dmca.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/tasks.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/models.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/migrations/0001_initial.py",
+		"/home/potpan/Workspace/kanto-compose/index.html",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/src/kms-env/kms_env/secrets.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/settings.py",
+		"/home/potpan/Workspace/kanto-compose/transcoder/transcoder.go",
+		"/home/potpan/Workspace/kanto-compose/mage/mage.go",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-client/index.html",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-client/config/index.js",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-client/build/build.js",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/manage.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/settings/__init__.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/settings/project.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/settings/uploads.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/settings/django.py",
+		"/home/potpan/Workspace/kanto-deployments/modules/upload_bucket/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/upload_bucket/variables.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/logs/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/services/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/services/variables.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/logs/variables.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/alb/variables.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/alb/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/development/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/development/terraform.tfstate",
+		"/home/potpan/Workspace/kanto-deployments/modules/ecs/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/cdn/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/upload_bucket/output.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/bucket/variables.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/bucket/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/cdn/variables.tf",
+		"/home/potpan/Workspace/kanto-deployments/cloudfrontestestest/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/cloudfronttestest",
+		"/home/potpan/Workspace/kanto-deployments/modules/elasticsearch/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/rds/variables.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/rds/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/vpc/variables.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/vpc/main.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/ecs/variables.tf",
+		"/home/potpan/Workspace/kanto-deployments/modules/s3/main.tf",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/builders/upload_builder.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/__init__.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/upload_stuff.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/tests/test_files/what_do_you_mean_big.mp3",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/tox.ini",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/utils.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/factories/upload_out_files_factory.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/auth/views.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/views/user.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/venv/lib/python3.7/site-packages/django/conf/project_template/project_name/settings.py-tpl",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/serializers/follow_serializer.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/views/vote.py",
+		"/home/potpan/Workspace/kanto-compose/kanto-io-api/kanto/api/serializers/vote_serializer.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 414.0,
+		"where_history":
+		[
+			"/home/potpan/Workspace/django-vue/client/src",
+			"/home/potpan/Workspace/django-vue/backend",
+			"/home/potpan/Workspace/django-vue/client/src",
+			"/home/potpan/Workspace/django-vue/client",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"debugger",
+			"True",
+			"activate",
+			"redender_to_string",
+			"API_URL",
+			"confirmPassword",
+			"Passowrd",
+			"Navbar",
+			"na",
+			"getMe",
+			"loader",
+			"EMAIL_BACKEND"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"passwordConfirm",
+			"Password"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/potpan/Workspace/django-vue/client/src/components/Header/index.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"SL.633.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|e426279379cb2bbd0d5160eb788cc2db444a818f1813c1bde213bf9f443f3944|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "auth.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								588,
+								588
+							]
+						],
+						"settings":
+						{
+							"SL.655.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|7d74813ff0a1e2be1804d1cb51f6f983216368dfcfcd316c0232469e6c168696|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"SL.660.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|7d74813ff0a1e2be1804d1cb51f6f983216368dfcfcd316c0232469e6c168696|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 184.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/home/potpan/Workspace/django-vue/client/src/store/modules",
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										225,
+										233
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/home/potpan/Workspace/django-vue/client/src/store/modules",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/potpan/Workspace/django-vue/backend/backend/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								363,
+								363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/potpan/Workspace/django-vue/client/src/api/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"SL.41.region_keys":
+							[
+								"SL.eslint.Highlights.|a194ba957c29770640d77405cb7037b90ab52dd20722bd3612d43cfb60ef6e79|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|ac84e3d2c0a877f44614121af8d89fdc46f38e53acc09fc294f9f66eb033a176|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"SL.661.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|a194ba957c29770640d77405cb7037b90ab52dd20722bd3612d43cfb60ef6e79|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|ac84e3d2c0a877f44614121af8d89fdc46f38e53acc09fc294f9f66eb033a176|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/home/potpan/Workspace/django-vue/client/src/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								484,
+								484
+							]
+						],
+						"settings":
+						{
+							"SL.646.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/potpan/Workspace/django-vue/client/src/views/Register.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								719,
+								719
+							]
+						],
+						"settings":
+						{
+							"SL.672.region_keys":
+							[
+							],
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/potpan/Workspace/django-vue/client/src/views/Login.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"SL.674.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|8159af25701f46a2c5daba539f0fab379276c150aa53c6ca15fd0d674a25a653|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/potpan/Workspace/django-vue/client/src/api/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1006,
+								1006
+							]
+						],
+						"settings":
+						{
+							"SL.45.region_keys":
+							[
+								"SL.eslint.Highlights.|a194ba957c29770640d77405cb7037b90ab52dd20722bd3612d43cfb60ef6e79|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|ac84e3d2c0a877f44614121af8d89fdc46f38e53acc09fc294f9f66eb033a176|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"SL.661.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|a194ba957c29770640d77405cb7037b90ab52dd20722bd3612d43cfb60ef6e79|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|ac84e3d2c0a877f44614121af8d89fdc46f38e53acc09fc294f9f66eb033a176|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.675.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|a194ba957c29770640d77405cb7037b90ab52dd20722bd3612d43cfb60ef6e79|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|ac84e3d2c0a877f44614121af8d89fdc46f38e53acc09fc294f9f66eb033a176|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/potpan/Workspace/django-vue/backend/backend/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								808,
+								808
+							]
+						],
+						"settings":
+						{
+							"SL.677.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/potpan/Workspace/django-vue/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/potpan/Workspace/django-vue/docker-compose.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"SL.680.region_keys":
+							[
+							],
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/potpan/Workspace/django-vue/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/home/potpan/Workspace/django-vue/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"SL.688.region_keys":
+							[
+							],
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "auth.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"SL.655.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|7d74813ff0a1e2be1804d1cb51f6f983216368dfcfcd316c0232469e6c168696|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.372030430822,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 451.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gofmt":
+	{
+		"height": 0.0
+	},
+	"output.terrafmt":
+	{
+		"height": 590.0
+	},
+	"pinned_build_system": "",
+	"project": "django-vue.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"settings",
+				"backend/backend/settings.py"
+			],
+			[
+				"api ",
+				"client/src/api/index.js"
+			],
+			[
+				"LOGIN",
+				"client/src/views/Login.vue"
+			],
+			[
+				"regist",
+				"client/src/views/Register.vue"
+			],
+			[
+				"api ind",
+				"client/src/api/index.js"
+			],
+			[
+				"api",
+				"client/src/api/index.js"
+			],
+			[
+				"store auth",
+				"client/src/store/modules/auth.js"
+			],
+			[
+				"client rout",
+				"client/src/router.js"
+			],
+			[
+				"urls",
+				"backend/backend/urls.py"
+			],
+			[
+				"",
+				"client/src/components/Header/index.vue"
+			],
+			[
+				"Header ",
+				"client/src/components/Header/index.vue"
+			],
+			[
+				"ser",
+				"backend/backend/api/serializers.py"
+			],
+			[
+				"auth view",
+				"backend/backend/api/auth/views.py"
+			],
+			[
+				"client src register",
+				"client/src/views/Register.vue"
+			],
+			[
+				"backend seri",
+				"backend/backend/api/serializers.py"
+			],
+			[
+				"register ",
+				"client/src/views/Register.vue"
+			],
+			[
+				"backend urls",
+				"backend/backend/urls.py"
+			],
+			[
+				"backend auth view",
+				"backend/backend/api/auth/views.py"
+			],
+			[
+				"store types",
+				"client/src/store/types.js"
+			],
+			[
+				"package",
+				"client/package.json"
+			],
+			[
+				"types",
+				"client/src/store/types.js"
+			],
+			[
+				"api in",
+				"client/src/api/index.js"
+			],
+			[
+				"api index.",
+				"client/src/api/index.js"
+			],
+			[
+				"auth",
+				"client/src/store/modules/auth.js"
+			],
+			[
+				"router",
+				"client/src/router.js"
+			],
+			[
+				"view",
+				"backend/backend/api/views.py"
+			],
+			[
+				"mode",
+				"backend/backend/api/models.py"
+			],
+			[
+				"model",
+				"backend/backend/api/models.py"
+			],
+			[
+				"sett",
+				"backend/backend/settings.py"
+			],
+			[
+				"models",
+				"backend/backend/api/models.py"
+			],
+			[
+				"in",
+				"input.go"
+			],
+			[
+				"tran",
+				"transcoder/transcoder.go"
+			],
+			[
+				"settings.py",
+				"kanto-io-api/kanto/settings.py"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"test_a",
+				"kanto-io-api/kanto/api/tests/test_views/test_albums.py"
+			],
+			[
+				"test_dm",
+				"kanto-io-api/kanto/api/tests/test_views/test_dmca.py"
+			],
+			[
+				"factor",
+				"kanto-io-api/kanto/api/tests/factories.py"
+			],
+			[
+				"test_albu",
+				"kanto-io-api/kanto/api/tests/test_views/test_albums.py"
+			],
+			[
+				"settin",
+				"kanto-io-api/kanto/settings.py"
+			],
+			[
+				"test_up",
+				"kanto-io-api/kanto/api/tests/test_views/test_uploads.py"
+			],
+			[
+				"fact",
+				"kanto-io-api/kanto/api/tests/factories.py"
+			],
+			[
+				"test_s3",
+				"kanto-io-api/kanto/api/tests/test_models/test_s3file.py"
+			],
+			[
+				"tasks",
+				"kanto-io-api/kanto/api/tasks.py"
+			],
+			[
+				"outfil",
+				"kanto-io-api/kanto/api/factories/upload_out_files_factory.py"
+			],
+			[
+				"index.",
+				"kanto-io-client/index.html"
+			],
+			[
+				"upl",
+				"kanto/api/builders/upload_builder.py"
+			],
+			[
+				"test_",
+				"kanto/api/tests/test_views/test_uploads.py"
+			],
+			[
+				"upload_",
+				"kanto/api/builders/upload_builder.py"
+			],
+			[
+				"che",
+				"kanto/api/checks.py"
+			],
+			[
+				"test_Up",
+				"kanto/api/tests/test_views/test_uploads.py"
+			],
+			[
+				"test_uploads",
+				"kanto/api/tests/test_views/test_uploads.py"
+			],
+			[
+				"settings upload",
+				"kanto/settings/uploads.py"
+			],
+			[
+				"settings django.py",
+				"kanto/settings/django.py"
+			],
+			[
+				"settings.y",
+				"venv/src/django-aws-pubsub/aws_pubsub/settings.py"
+			],
+			[
+				"settings project",
+				"kanto/settings/project.py"
+			],
+			[
+				"settings proj",
+				"venv/lib/python3.7/site-packages/django/conf/project_template/project_name/settings.py-tpl"
+			],
+			[
+				"views user",
+				"kanto/api/views/user.py"
+			],
+			[
+				"follow",
+				"kanto/api/serializers/follow_serializer.py"
+			],
+			[
+				"user",
+				"kanto/api/views/user.py"
+			],
+			[
+				"views auth",
+				"kanto/api/auth/views.py"
+			],
+			[
+				"vote ser",
+				"kanto/api/serializers/vote_serializer.py"
+			],
+			[
+				"vote",
+				"kanto/api/views/vote.py"
+			],
+			[
+				"auth views",
+				"kanto/api/auth/views.py"
+			],
+			[
+				"settings __in",
+				"kanto/settings/__init__.py"
+			],
+			[
+				"upload_ser",
+				"kanto/api/serializers/upload_serializer.py"
+			],
+			[
+				"utils",
+				"kanto/utils.py"
+			],
+			[
+				"MODEL",
+				"kanto/api/models.py"
+			],
+			[
+				"song_",
+				"kanto/api/serializers/song_serializer.py"
+			],
+			[
+				"USER",
+				"kanto/api/serializers/user_serializer.py"
+			],
+			[
+				"models.",
+				"kanto/api/models.py"
+			],
+			[
+				"tox",
+				"kanto-io-api/tox.ini"
+			],
+			[
+				"cap",
+				"kanto-io-api/kanto/settings/captcha.py"
+			],
+			[
+				"requirements",
+				"kanto-io-api/requirements.in"
+			],
+			[
+				"upload_bui",
+				"kanto-io-api/kanto/api/builders/upload_builder.py"
+			],
+			[
+				"song",
+				"kanto-io-api/kanto/api/views/song.py"
+			],
+			[
+				"views __init",
+				"kanto-io-api/kanto/api/views/__init__.py"
+			],
+			[
+				"prun",
+				"kanto-io-api/kanto/api/management/commands/prune_uploads.py"
+			],
+			[
+				"recap",
+				"kanto-io-api/kanto/api/serializers/recaptcha_field.py"
+			],
+			[
+				"upload.py",
+				"kanto-io-api/kanto/api/views/upload.py"
+			],
+			[
+				"upload_buil",
+				"kanto-io-api/kanto/api/builders/upload_builder.py"
+			],
+			[
+				"build_index",
+				"kanto-io-api/kanto/api/management/commands/build_index.py"
+			],
+			[
+				"user_",
+				"kanto-io-api/kanto/api/serializers/user_serializer.py"
+			],
+			[
+				"dmca_",
+				"kanto-io-api/kanto/api/serializers/dmca_serializer.py"
+			],
+			[
+				"views vote.py",
+				"kanto-io-api/kanto/api/views/vote.py"
+			],
+			[
+				"reca",
+				"kanto-io-api/kanto/api/serializers/recaptcha_field.py"
+			],
+			[
+				"tests factor",
+				"kanto-io-api/kanto/api/tests/factories.py"
+			],
+			[
+				"001_",
+				"kanto-io-api/kanto/api/migrations/0001_initial.py"
+			],
+			[
+				"song_se",
+				"kanto-io-api/kanto/api/serializers/song_serializer.py"
+			],
+			[
+				"test_songs",
+				"kanto-io-api/kanto/api/tests/test_views/test_songs.py"
+			],
+			[
+				"song.py",
+				"kanto-io-api/kanto/api/views/song.py"
+			],
+			[
+				"views dmca",
+				"kanto-io-api/kanto/api/views/dmca.py"
+			],
+			[
+				"dmca.py",
+				"kanto-io-api/kanto/api/views/dmca.py"
+			],
+			[
+				"song_ser",
+				"kanto-io-api/kanto/api/serializers/song_serializer.py"
+			],
+			[
+				"feed_",
+				"kanto-io-api/kanto/api/serializers/feed_serializer.py"
+			],
+			[
+				"user_ser",
+				"kanto-io-api/kanto/api/serializers/user_serializer.py"
+			],
+			[
+				"test_d",
+				"kanto-io-api/kanto/api/tests/test_views/test_dmca.py"
+			],
+			[
+				"serializers/__init__.py",
+				"kanto-io-api/kanto/api/serializers/__init__.py"
+			],
+			[
+				"test_vot",
+				"kanto-io-api/kanto/api/tests/test_views/test_votes.py"
+			],
+			[
+				"test_users.py",
+				"kanto-io-api/kanto/api/tests/test_views/test_users.py"
+			],
+			[
+				"song_s",
+				"kanto-io-api/kanto/api/serializers/song_serializer.py"
+			],
+			[
+				"vot",
+				"kanto-io-api/kanto/api/serializers/vote_serializer.py"
+			],
+			[
+				"test_al",
+				"kanto-io-api/kanto/api/tests/test_views/test_albums.py"
+			],
+			[
+				"test_feed",
+				"kanto-io-api/kanto/api/tests/test_views/test_feeds.py"
+			],
+			[
+				"test_user",
+				"kanto-io-api/kanto/api/tests/test_serializers/test_user_serializer.py"
+			],
+			[
+				"queries",
+				"kanto-io-api/kanto/queries.py"
+			],
+			[
+				"/test_song_serializer.py",
+				"kanto-io-api/kanto/api/tests/test_serializers/test_song_serializer.py"
+			],
+			[
+				"test_upl",
+				"kanto-io-api/kanto/api/tests/test_builders/test_upload_builder.py"
+			],
+			[
+				"upload buil",
+				"kanto-io-api/kanto/api/builders/upload_builder.py"
+			],
+			[
+				"management/commands/build_index.py",
+				"kanto-io-api/kanto/api/management/commands/build_index.py"
+			],
+			[
+				"kanto/api/factories/__init__.py",
+				"kanto-io-api/kanto/api/factories/__init__.py"
+			],
+			[
+				"tests/test_serializers/test_song_serializer.py",
+				"kanto-io-api/kanto/api/tests/test_serializers/test_song_serializer.py"
+			],
+			[
+				"test_tasks/test_indexer.py",
+				"kanto-io-api/kanto/api/tests/test_tasks/test_indexer.py"
+			],
+			[
+				"test_models/test_s3file.py ",
+				"kanto-io-api/kanto/api/tests/test_models/test_s3file.py"
+			],
+			[
+				"search docu",
+				"kanto-io-api/kanto/api/search/documents.py"
+			],
+			[
+				"views goog",
+				"kanto-io-api/kanto/api/views/google.py"
+			],
+			[
+				"feed_s",
+				"kanto-io-api/kanto/api/serializers/feed_serializer.py"
+			],
+			[
+				"upload builder",
+				"kanto-io-api/kanto/api/builders/upload_builder.py"
+			],
+			[
+				"tasks.py",
+				"kanto-io-api/kanto/api/tasks.py"
+			],
+			[
+				"set",
+				"kanto-io-api/kanto/settings.py"
+			],
+			[
+				"dock",
+				"docker-compose.yml"
+			],
+			[
+				"mod",
+				"kanto-io-api/kanto/api/models.py"
+			],
+			[
+				"api tasks",
+				"kanto-io-api/kanto/api/tasks.py"
+			],
+			[
+				"docker-",
+				"docker-compose.yml"
+			],
+			[
+				"feed inex",
+				"kanto-io-client/src/components/Feed/index.vue"
+			],
+			[
+				"fdd",
+				"kanto-io-client/src/components/Feed/index.vue"
+			],
+			[
+				"player inde",
+				"kanto-io-client/src/lib/audio-player.js"
+			],
+			[
+				"models.py",
+				"kanto-io-api/kanto/api/models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 928.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 374.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

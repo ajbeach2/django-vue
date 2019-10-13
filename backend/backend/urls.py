@@ -23,6 +23,7 @@ from rest_framework import permissions
 from rest_framework.routers import DefaultRouter
 
 from backend.api.views import UserViewSet
+from backend.api.auth import views as auth_views
 
 
 router = DefaultRouter()
@@ -45,6 +46,11 @@ urlpatterns = [
    re_path(r'^swagger(?P<format>\.json|\.yaml)$', schema_view.without_ui(cache_timeout=0), name='schema-json'),
    re_path(r'^swagger/$', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),
    re_path(r'^redoc/$', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),
+   re_path(r'^activate/(?P<uidb64>[0-9A-Za-z_\-]+)/(?P<token>[0-9A-Za-z]{1,13}-[0-9A-Za-z]{1,20})/$',
+        auth_views.ConfirmEmail.as_view(), name='confirm_email'),
+   path('api/login/', auth_views.LoginView.as_view()),
+   path('api/logout/', auth_views.LogOutView.as_view()),
+   path('api/register/', auth_views.Register.as_view()),
    path('admin/', admin.site.urls),
    path('api/', include(router.urls))
 ]

@@ -2,12 +2,8 @@ django
 djangorestframework
 drf-nested-routers
 django-nose
-Faker
-requests-mock
-factory-boy
 django_extensions
 psycopg2
 boto3
 django-cors-headers
-coverage
 drf-yasg

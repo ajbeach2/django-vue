@@ -22,11 +22,15 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '*$s!ikrvwy$cas6jj+nc^kp)(gltq0du&_=f-sht#r@i2tww%d'
 
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
 
-ALLOWED_HOSTS = []
-
+# Environment Settings
+APP_ENV = os.getenv('APP_ENV', 'development')
+DEBUG = os.getenv('DEBUG', 'True') == 'True' and APP_ENV != 'production'
+HOST = os.getenv('HOST', 'localhost:8000')
+if APP_ENV == 'production':
+    ALLOWED_HOSTS = [
+        HOST,
+    ]
 
 # Application definition
 
@@ -56,8 +60,16 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-# SECURITY WARNING: don't run with all origin all on production!
-CORS_ORIGIN_ALLOW_ALL = True
+# # SECURITY WARNING: don't run with all origin all on production!
+# CORS_ORIGIN_ALLOW_ALL = False
+
+if APP_ENV != 'production':
+    CORS_ALLOW_CREDENTIALS = True
+    CORS_ORIGIN_WHITELIST = (
+        'http://localhost:8080',
+        'http://localhost:8000'
+    )
+
 
 ROOT_URLCONF = 'backend.urls'
 
@@ -89,8 +101,8 @@ DATABASES = {
         'NAME': os.getenv("DB_NAME", "postgres"),
         'USER': os.getenv("DB_USER", "postgres"),
         'PASSWORD': os.getenv("DB_PASSSWORD", ""),
-        'HOST': os.getenv("DB_HOST", "postgres"),
-        'PORT': 5432,
+        'HOST': os.getenv("DB_HOST", "localhost"),
+        'PORT': int(os.getenv("DB_PORT", 5431)),
     }
 }
 
@@ -143,3 +155,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
