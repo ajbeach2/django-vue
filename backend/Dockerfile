@@ -1,6 +1,7 @@
-FROM python:3.7.2
+FROM python:3.7.4
 RUN mkdir /app
 WORKDIR /app
+RUN pip install tox
 ADD requirements.txt /app/
 RUN pip install -r requirements.txt
 EXPOSE 8000
