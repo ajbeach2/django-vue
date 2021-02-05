@@ -5,38 +5,107 @@
 #    pip-compile
 #
 boto3==1.9.168
-botocore==1.12.168        # via boto3, s3transfer
-certifi==2019.3.9         # via requests
-chardet==3.0.4            # via requests
-coreapi==2.3.3            # via drf-yasg
-coreschema==0.0.4         # via coreapi, drf-yasg
+    # via -r requirements.in
+botocore==1.12.168
+    # via
+    #   boto3
+    #   s3transfer
+certifi==2019.3.9
+    # via requests
+chardet==3.0.4
+    # via requests
+coreapi==2.3.3
+    # via drf-yasg
+coreschema==0.0.4
+    # via
+    #   coreapi
+    #   drf-yasg
 coverage==4.5.3
+    # via -r requirements.in
 django-cors-headers==3.0.2
+    # via -r requirements.in
 django-extensions==2.1.9
+    # via -r requirements.in
 django-nose==1.4.6
+    # via -r requirements.in
+django-phonenumber-field==5.0.0
+    # via -r requirements.in
 django==2.2.2
+    # via
+    #   -r requirements.in
+    #   django-cors-headers
+    #   django-phonenumber-field
+    #   drf-nested-routers
+    #   drf-yasg
 djangorestframework==3.9.4
-docutils==0.14            # via botocore
+    # via
+    #   -r requirements.in
+    #   drf-nested-routers
+    #   drf-yasg
+docutils==0.14
+    # via botocore
 drf-nested-routers==0.91
+    # via -r requirements.in
 drf-yasg==1.16.0
+    # via -r requirements.in
 factory-boy==2.12.0
+    # via -r requirements.in
 faker==1.0.7
-idna==2.8                 # via requests
-inflection==0.3.1         # via drf-yasg
-itypes==1.1.0             # via coreapi
-jinja2==2.10.1            # via coreschema
-jmespath==0.9.4           # via boto3, botocore
-markupsafe==1.1.1         # via jinja2
-nose==1.3.7               # via django-nose
+    # via
+    #   -r requirements.in
+    #   factory-boy
+idna==2.8
+    # via requests
+inflection==0.3.1
+    # via drf-yasg
+itypes==1.1.0
+    # via coreapi
+jinja2==2.10.1
+    # via coreschema
+jmespath==0.9.4
+    # via
+    #   boto3
+    #   botocore
+markupsafe==1.1.1
+    # via jinja2
+nose==1.3.7
+    # via django-nose
+phonenumbers==8.12.17
+    # via -r requirements.in
 psycopg2==2.8.3
-python-dateutil==2.8.0    # via botocore, faker
-pytz==2019.1              # via django
+    # via -r requirements.in
+python-dateutil==2.8.0
+    # via
+    #   botocore
+    #   faker
+pytz==2019.1
+    # via django
 requests-mock==1.6.0
-requests==2.22.0          # via coreapi, requests-mock
-ruamel.yaml==0.15.97      # via drf-yasg
-s3transfer==0.2.1         # via boto3
-six==1.12.0               # via django-extensions, drf-yasg, faker, python-dateutil, requests-mock
-sqlparse==0.3.0           # via django
-text-unidecode==1.2       # via faker
-uritemplate==3.0.0        # via coreapi, drf-yasg
-urllib3==1.25.3           # via botocore, requests
+    # via -r requirements.in
+requests==2.22.0
+    # via
+    #   coreapi
+    #   requests-mock
+ruamel.yaml==0.15.97
+    # via drf-yasg
+s3transfer==0.2.1
+    # via boto3
+six==1.12.0
+    # via
+    #   django-extensions
+    #   drf-yasg
+    #   faker
+    #   python-dateutil
+    #   requests-mock
+sqlparse==0.3.0
+    # via django
+text-unidecode==1.2
+    # via faker
+uritemplate==3.0.0
+    # via
+    #   coreapi
+    #   drf-yasg
+urllib3==1.25.3
+    # via
+    #   botocore
+    #   requests

@@ -6,6 +6,8 @@ services:
       - "dbdata:/var/lib/postgresql/data"
     ports:
       - "5431:5432"
+    environment:
+      - POSTGRES_PASSWORD=password
   client:
     env_file: ./common/.client.env
     build:

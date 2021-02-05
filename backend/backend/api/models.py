@@ -1,6 +1,5 @@
 from django.conf import settings
 from django.db import models
-from phonenumber_field.modelfields import PhoneNumberField
 
 
 class BaseModel(models.Model):
@@ -17,4 +16,3 @@ class Profile(BaseModel):
         on_delete=models.CASCADE,
         primary_key=True,
     )
-    phone_number = PhoneNumberField()
