@@ -22,29 +22,43 @@ from drf_yasg import openapi
 from rest_framework import permissions
 from rest_framework.routers import DefaultRouter
 
-from backend.api.views import UserViewSet
+from backend.api.views import (
+    UserViewSet,
+    CheckViewSet,
+    LoginView,
+    LogOutView
+)
 
 
 router = DefaultRouter()
 router.register(r'users', UserViewSet, base_name='user')
 
 schema_view = get_schema_view(
-   openapi.Info(
-      title="Backend API",
-      default_version='v1',
-      description="Test description",
-      terms_of_service="https://www.google.com/policies/terms/",
-      contact=openapi.Contact(email="contact@backend.local"),
-      license=openapi.License(name="BSD License"),
-   ),
-   public=True,
-   permission_classes=(permissions.AllowAny,),
+    openapi.Info(
+        title="Backend API",
+        default_version='v1',
+        description="Test description",
+        terms_of_service="https://www.google.com/policies/terms/",
+        contact=openapi.Contact(email="contact@backend.local"),
+        license=openapi.License(name="BSD License"),
+    ),
+    public=True,
+    permission_classes=(permissions.AllowAny,),
 )
 
 urlpatterns = [
-   re_path(r'^swagger(?P<format>\.json|\.yaml)$', schema_view.without_ui(cache_timeout=0), name='schema-json'),
-   re_path(r'^swagger/$', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),
-   re_path(r'^redoc/$', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),
-   path('admin/', admin.site.urls),
-   path('api/', include(router.urls))
+    re_path(r'^swagger(?P<format>\.json|\.yaml)$',
+            schema_view.without_ui(cache_timeout=0), name='schema-json'),
+    re_path(r'^swagger/$', schema_view.with_ui('swagger',
+                                               cache_timeout=0),
+            name='schema-swagger-ui'),
+    re_path(r'^redoc/$', schema_view.with_ui('redoc',
+                                             cache_timeout=0),
+            name='schema-redoc'),
+    path('admin/', admin.site.urls),
+    path('api/check/', CheckViewSet.as_view({"get": "retrieve"})),
+    path('api/login/', LoginView.as_view()),
+    path('api/logout/', LogOutView.as_view()),
+    path('api/', include((router.urls, 'api'))),
+    path('api/', include(router.urls))
 ]

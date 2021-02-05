@@ -11,3 +11,5 @@ boto3
 django-cors-headers
 coverage
 drf-yasg
+django-phonenumber-field
+phonenumbers

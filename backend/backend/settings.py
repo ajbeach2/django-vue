@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'drf_yasg',
     'corsheaders',
     'django_nose',
-    'backend.api'
+    'phonenumber_field',
+    'backend.api',
 
 ]
 
