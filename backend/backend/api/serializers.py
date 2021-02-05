@@ -5,7 +5,6 @@ from .models import Profile
 
 
 class ProfileSerializer(serializers.ModelSerializer):
-
     class Meta:
         model = Profile
         fields = ("user_id", "phone_number")
@@ -28,4 +27,4 @@ class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
         fields = ("id", "email", "profile")
-        read_only_fields = ('id')
+        read_only_fields = "id"
