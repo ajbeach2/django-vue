@@ -13,8 +13,7 @@ ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 RUN apt-get update -y && \
 	apt-get install git libpq-dev gcc -y
 RUN python3 -m venv $VIRTUAL_ENV
-RUN pip install -r requirements.txt && \
-	pip install uwsgi
+RUN pip install -r requirements.txt
 
 # ---- Copy Files/Build ----
 FROM base

@@ -1,12 +1,10 @@
 from django.contrib.auth.models import User
 from rest_framework import serializers
-from phonenumber_field.serializerfields import PhoneNumberField
 
 from .models import Profile
 
 
 class ProfileSerializer(serializers.ModelSerializer):
-    phone_number = PhoneNumberField()
 
     class Meta:
         model = Profile

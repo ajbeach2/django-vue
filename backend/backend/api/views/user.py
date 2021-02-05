@@ -7,7 +7,7 @@ from rest_framework.response import Response
 from rest_framework.permissions import IsAuthenticated
 
 
-from backend.api.serializers.user_serializer import UserSerializer
+from backend.api.serializers import UserSerializer
 from backend.api.permissions import IsOwnerOrReadOnly
 
 

@@ -6,10 +6,9 @@ Faker
 requests-mock
 factory-boy
 django_extensions
-psycopg2
+psycopg2-binary
 boto3
 django-cors-headers
 coverage
 drf-yasg
-django-phonenumber-field
-phonenumbers
+ruamel.yaml==0.16.10
