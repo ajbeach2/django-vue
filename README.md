@@ -1,6 +1,6 @@
 # django-vue
 
-Django Vue scaffold. Runs with docker-compose. Requires nginx so that the vue.js front end can leverage cookie based auth within Django.
+Django Vue scaffold. Runs with docker-compose. Uses nginx as reverse proxy and single origin to front and backend
 
 ## Running
 ```docker-compose up```

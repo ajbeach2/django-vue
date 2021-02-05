@@ -32,14 +32,21 @@ services:
     environment:
       - LOG_LEVEL=DEBUG
       - DJANGO_LOG_LEVEL=INFO
+    restart: on-failure
     depends_on:
       - postgres
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:80"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
   web:
     image: nginx
     volumes:
       - ./nginx/:/etc/nginx/conf.d/
     ports:
       - "3031:80"
+    restart: on-failure
     depends_on:
       - api
       - client
